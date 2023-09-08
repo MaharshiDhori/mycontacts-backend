@@ -1,6 +1,12 @@
 # mycontacts-backend
 Contact Management App made by using Nodejs. It provides User registration and login. And access to their contact list.
 
+## Description
+Have made this project to learn nodejs functionality. 
+I have created only backend of this app where users can register themselves and manage their contact list.
+This app provides Log in authentication and Connection to Mongodb.
+This project had helped me to get knowledge of Nodejs, Express Framework, JWT and configuration of Mongodb.
+
 ## Built using
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
